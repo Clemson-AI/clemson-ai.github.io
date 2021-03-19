@@ -1,5 +1,6 @@
 remote_theme: fongandrew/hydeout
 paginate: 5
+name: Clemson AI Club
 
 disqus:
   shortname: https-clemson-ai-github-io
