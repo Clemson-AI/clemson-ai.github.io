@@ -1,6 +1,8 @@
 remote_theme: fongandrew/hydeout
 paginate: 5
 title: Clemson AI Club
+description: work in progress website for Clemson AI Club
+
 
 disqus:
   shortname: https-clemson-ai-github-io
