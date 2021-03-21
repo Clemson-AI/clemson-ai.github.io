@@ -4,6 +4,7 @@ title: Clemson AI Club
 description: work in progress website for Clemson AI Club
 
 permalink: /:categories/:title:output_ext
+markdown: kramdown
 
 disqus:
   shortname: https-clemson-ai-github-io
