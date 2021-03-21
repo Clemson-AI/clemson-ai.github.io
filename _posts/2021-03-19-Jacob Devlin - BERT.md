@@ -2,8 +2,9 @@
 layout: post
 title: Jacob Devlin - BERT
 author: jai
-categories: Resources
-Tag:
+categories: 
+    -  Resources
+tags:
     -  BERT
     -  NLP
     -  Transformers
