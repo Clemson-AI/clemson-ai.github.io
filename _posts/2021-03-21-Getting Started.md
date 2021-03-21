@@ -7,7 +7,6 @@ categories:
 tags:
     -  General
 ---
-Classes at Clemson and Videos for online learning.
 
 #### Online Courses and Videos
  - [deeplearning.ai](https://www.deeplearning.ai/programs/){:target="_blank"}  
