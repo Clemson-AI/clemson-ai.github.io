@@ -39,8 +39,8 @@ Self-supervised and unsupervised learning has been behind some of the biggest AI
 <div class="video-container">
     <iframe width="420" height="315" src="https://www.youtube.com/embed/uPUEq8d73JI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-#  
-#  
+  
+  
 You can find more on their [website](https://deepmind.com/){:target="_blank"} such as an implementation of a [DQN](https://deepmind.com/research/open-source/dqn){:target="_blank"}.
   
   

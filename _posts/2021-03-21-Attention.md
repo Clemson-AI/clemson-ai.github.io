@@ -14,8 +14,3 @@ Ashish Vaswani's guest lecture at Stanford about Attention and Transformers from
 <div class="video-container">
     <iframe width="420" height="315" src="https://www.youtube.com/embed/5vcj8kSwBCY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-Here is one from DeepMind
-<div class="video-container">
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/AIiwuClvH6k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
