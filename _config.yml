@@ -1,7 +1,7 @@
 remote_theme: fongandrew/hydeout
 paginate: 10
 title: Clemson AI Club
-description: work in progress website for Clemson AI Club
+description: For Students Passionate about ML/AI
 
 permalink: /:categories/:title:output_ext
 markdown: kramdown
