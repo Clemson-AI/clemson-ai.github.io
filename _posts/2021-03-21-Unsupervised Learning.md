@@ -39,20 +39,22 @@ Self-supervised and unsupervised learning has been behind some of the biggest AI
 <div class="video-container">
     <iframe width="420" height="315" src="https://www.youtube.com/embed/uPUEq8d73JI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-  
+#  
+#  
 You can find more on their [website](https://deepmind.com/){:target="_blank"} such as an implementation of a [DQN](https://deepmind.com/research/open-source/dqn){:target="_blank"}.
   
   
 ## OpenAI  
 #### GPT-3  
- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165){:target="_blank"} and its [API](https://beta.openai.com/){:target="_blank"}. We currently don't have full access to their API :cry:. 
+ [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165){:target="_blank"} and its [API](https://beta.openai.com/){:target="_blank"}. We currently don't have full access to their API :cry:  
+
 #### Projects
-[DOTA2 bot](https://openai.com/projects/five/){:target="_blank"}
-[music generation](https://openai.com/blog/jukebox/){:target="_blank"}
+[DOTA2 Bot](https://openai.com/projects/five/){:target="_blank"}  
+[Music Generation](https://openai.com/blog/jukebox/){:target="_blank"}
   
 More on their [website](https://openai.com/projects/){:target="_blank"}
   
-They have a guide to unsupervised learning, [Spinning Up in DeepRL](https://spinningup.openai.com/en/latest/){:target="_blank"} with an accompanying video:
+They have a guide to unsupervised learning - [Spinning Up in DeepRL](https://spinningup.openai.com/en/latest/){:target="_blank"} with an accompanying video:
 <div class="video-container">
     <iframe width="420" height="315" src="https://www.youtube.com/embed/fdY7dt3ijgY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
